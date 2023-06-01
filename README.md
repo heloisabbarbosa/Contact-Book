@@ -1,26 +1,26 @@
-# Contact Book
+## 💻 Projeto
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/heloisabbarbosa/Contact-Book/blob/add-license-1/LICENCE)
 
-# Sobre o projeto
+## Sobre o projeto
 
 Contact Book é um projeto feito na faculdade UNIFG, com o obejtivo de intensificar os conhecimentos em C++.
 
 A aplicação consiste em uma agenda de contatos, onde o usuário pode adicionar, buscar, editar, remover e listar contatos que estão em um arquivo txt.
 Todo contato adicionado vai direto pra esse arquivo txt, porém modificações como editar e remover, não farão efeitos no arquivo, se for adicionado vai ficar lá pra sempre.
 
-# Tecnologias utilizadas
+## 🚀 Tecnologias utilizadas
 ## Apps
 - Dev C++
 
-## Linguagem de programção
+## 📔 Linguagens de programção
 - C++
 
-# Como executar o projeto
+## Como executar o projeto
 
 ## Dev C++
 O usado para fazer o projeto foi o Dev C++, mas pode ser compilado em outros que tem a mesma função.
 
-# Autor
+## Autor
 
 Heloisa Barbosa da Silva
 
