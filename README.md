@@ -17,7 +17,7 @@ Todo contato adicionado vai direto pra esse arquivo txt, porém modificações c
 ## Apps
 - Dev C++
 
-## 📔 Linguagens de programção
+## 📔 Linguagens de programação
 - C++
 
 ## Como executar o projeto
